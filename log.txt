@@ -1,0 +1,11 @@
+20-07-06 21.12.42 __init__ ('<---Телефонная книга--->',) {} None
+20-07-06 21.12.42 add_contact ('John', 'Travel', '+7924123456') {'favourites': False, 'telegram': '@Johny', 'Email': 'vizor9@bk.ru'} None
+20-07-06 21.12.42 add_contact ('Karl', 'Ratov', '+79241534248') {'favourites': True, 'telegram': '@Karl', 'Email': 'Karl23@mail.ru'} None
+20-07-06 21.12.42 add_contact ('Evgeny', 'Krugov', '+7914767676') {'favourites': False, 'telegram': '@Evg', 'Email': 'Evg@list.ru'} None
+20-07-06 21.12.42 add_contact ('Jaret', 'Letto', '+79246873349') {'favourites': False, 'telegram': '@Jaret', 'Email': 'Jaret@mail.ru'} None
+20-07-06 21.12.42 add_contact ('Jan', 'Clodov', '+79249875543') {'favourites': True, 'telegram': '@Jan', 'Email': 'Jan@bk.ru'} None
+20-07-06 21.12.42 add_contact ('Ray', 'Makov', '+79249274194') {'favourites': False, 'telegram': '@Ray', 'Email': 'Ray@mail.ru'} None
+20-07-06 21.12.42 view_contacts () {} None
+20-07-06 21.12.42 search_contact ('Clodov',) {} None
+20-07-06 21.12.42 view_favourite () {} None
+20-07-06 21.12.42 delete_contact ('+79241534248',) {} None
